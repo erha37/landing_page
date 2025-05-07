@@ -1,0 +1,159 @@
+{
+  "Header": {
+    "title": "Selamat Datang",
+    "paragraph": "Pelayanan Badan Mutu KKP"
+  },
+  "About": {
+    "paragraph": "BPPMHKP adalah singkatan dari Badan Pengendalian dan Pengawasan Mutu Hasil Kelautan dan Perikanan. Badan ini merupakan otoritas kompeten di bawah Kementerian Kelautan dan Perikanan (KKP) yang bertugas untuk menjamin mutu hasil kelautan dan perikanan melalui pengendalian dan pengawasan yang ketat, mulai dari hulu hingga hilir.",
+    "Why": [
+      "Kelayakan Pengolahan (SKP)",
+      "Hazard Analysis Critical Control Point (HACCP) ",
+      "cara Penerapan Distribusi Ikan (SPDI)",
+      "Mutu Keamanan Hasil Perikanan (SMKHP)"
+    ],
+    "Why2": [
+      "Cara Budi Daya Ikan yang Baik (CBIB)",
+      "Cara Pembenihan Ikan Yang Baik (CPIB)",
+      "Cara Pembuatan Obat Ikan yang Baik (CPOIB)",
+      "Cara Distribusi Obat Ikan yang Baik (CDOIB)",
+      "Cara Penanganan Ikan yang Baik di atas Kapal (CPIB kapal)",
+      "Cara Produksi Pakan Ikan yang Baik (CPPIB)"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-book",
+      "name": "Penyusunan Kebijakan",
+      "text": "Perumusan dan penetapan standar, regulasi teknis yang harmonis dengan persyaratan mutu (domestik, impor, dan ekspor)."
+    },
+    {
+      "icon": "fa fa-star",
+      "name": "Pelaksanaan Pengendalian dan Pengawasanr",
+      "text": "PBPPMHKP bertanggung jawab untuk melaksanakan kegiatan pengendalian dan pengawasan mutu produksi primer dan pascapanen."
+    },
+    {
+      "icon": "fa fa-shield",
+      "name": "Jaminan Mutu dan Keamanan",
+      "text": "Pengawasan mutu domestik (pelabuhan perikanan, pasar tradisional, dan pasar modern"
+    },
+    {
+      "icon": "fa fa-shield",
+      "name": "Jaminan Mutu dan Keamanan",
+      "text": "Peningkatan kerjasama dan penyetaraan standar dengan tujuan ekspor."
+    }
+    ,
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Jaminan Mutu dan Keamanan",
+      "text": "Peningkatan kapasitas SDM pengendali mutu, prasarana dan sarana Laboratorium Penguji dan Lembaga Inspeksi di UPT BPPMHKP"
+    }
+    
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    }
+  ],
+  "Contact": {
+    "address": "Gd. Mina Bahari II lt.6, JL. Medan Merdeka Timur No.16 Jakarta Pusat ",
+    "phone": "(021) 3519070",
+    "email": "humas.bppmhkp@kkp.go.id",
+    "istagram": "https://instagram.com/bppmhkp",
+    "twitter": "https://twitter.com/bppmhkp",
+    "youtube": "https://youtube.com/bppmhkp"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-check",
+      "title": "SIAPMUTU",
+      "text": "Sistem Aplikasi Pelayanan Mutu.",
+      "link": "https://siapmutu.kkp.go.id"
+    },
+    {
+      "icon": "fa fa-shield",
+      "title": "HONEST",
+      "text": "HACCP Online System",
+      "link": "https://haccp.kkp.go.id"
+    },
+    {
+      "icon": "fa fa-eyedropper",
+      "title": "SILAB",
+      "text": "Sistem Pengelanan Bahan Laboratorium.",
+      "link": "https://siapmutu.kkp.go.id/silab"
+    },
+    {
+      "icon": "fa fa-flag",
+      "title": "REGMITRA",
+      "text": "Registrasi Negara Mitra.",
+      "link": "https://siapmutu.kkp.go.id/ppk"
+    },
+    {
+      "icon": "fa fa-bar-chart",
+      "title": "STATS",
+      "text": "Statsistik Pelayanan Mutu",
+      "link": "https://siapmutu.kkp.go.id/"
+    },
+    {
+      "icon": "fa fa-money",
+      "title": "SIMONA",
+      "text": "Sistem monitoring Anggaran.",
+      "link": "https://siapmutu.kkp.go.id/"
+    }
+  ]
+}
