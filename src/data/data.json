@@ -132,16 +132,16 @@
       "link": "https://haccp.kkp.go.id"
     },
     {
-      "icon": "fa fa-eyedropper",
-      "title": "SILAB",
-      "text": "Sistem Pengelanan Bahan Laboratorium.",
-      "link": "https://siapmutu.kkp.go.id/silab"
-    },
-    {
       "icon": "fa fa-flag",
       "title": "REGMITRA",
       "text": "Registrasi Negara Mitra.",
       "link": "https://siapmutu.kkp.go.id/ppk"
+    },
+    {
+      "icon": "fa fa-eyedropper",
+      "title": "SILAB",
+      "text": "Sistem Pengelanan Bahan Laboratorium.",
+      "link": "https://siapmutu.kkp.go.id/silab"
     },
     {
       "icon": "fa fa-bar-chart",
