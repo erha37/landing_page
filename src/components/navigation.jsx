@@ -47,12 +47,7 @@ export const Navigation = (props) => {
                 Tugas
               </a>
             </li>
-           <li>
-              <a href="#contact" className="page-scroll">
-                Kontak
-              </a>
-            </li>
-          </ul>
+           </ul>
         </div>
       </div>
     </nav>
